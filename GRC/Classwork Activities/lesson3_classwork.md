@@ -1,16 +1,26 @@
 # Lesson 3 Classwork
 
+Governance Frameworks, Compliance, and BCP/DR
+
 ## Overview
 
-In this lesson, we covered governance frameworks, compliance, and business continuity planning/disaster recovery. We learned about the importance of policies and procedures in formalizing standards for organizations and how governance frameworks can help determine necessary policies. We also discussed the role of business continuity planning and disaster recovery in ensuring critical business functions in the event of a disruption.
+In this class, we learned about governance frameworks, compliance, and business continuity planning/disaster recovery (BCP/DR). We completed activities based on the GeldCorp scenario to better understand these concepts.
 
 ## Key Takeaways
-- Policies and procedures are essential for formalizing standards of "right" and "wrong" in organizations.
+- Organizations use policies and procedures to formalize standards of "right" and "wrong" and to ensure compliance with regulations and best practices.
 
-- Governance frameworks can help organizations determine which policies are necessary to meet compliance standards.
+- Governance frameworks help organizations determine which policies they need to develop to meet their goals and ensure compliance.
 
-- Business continuity planning and disaster recovery are critical to ensuring that critical business functions can continue in the event of a disruption.
+- Business continuity planning and disaster recovery ensure that essential functions of a business can continue in the event of a disruption.
+
+## We applied these concepts to the GeldCorp scenario in the following activities:
+
+- Documenting Company Policies: We developed a policy for one of the internal security goals set by GeldCorp.
+
+- Introduction to CEO Interviews and Question Prep: We determined a fictional company's security posture before they launched their business by conducting an interview with the CEO.
+
+- Disaster Recovery Planning for GeldCorp: We created a high-level disaster recovery plan for GeldCorp.
 
 ## Reflection
 
-This lesson provided valuable insights into governance frameworks, compliance, and business continuity planning/disaster recovery. Developing policies and procedures is crucial for organizations to ensure standardization and meet compliance standards. The business continuity planning and disaster recovery activities helped me understand the importance of having a plan in place to ensure critical business functions continue in the event of an unforeseen disruption. Overall, this lesson was informative and valuable in understanding the importance of governance frameworks, compliance, and business continuity planning/disaster recovery in the GRC industry.
+This class provided valuable insight into the importance of governance frameworks, compliance, and BCP/DR. The activities based on the GeldCorp scenario allowed us to apply these concepts in a practical setting and understand the challenges that organizations face in ensuring security and continuity. Overall, this class was a great way to wrap up the GRC unit and prepare for future modules.
