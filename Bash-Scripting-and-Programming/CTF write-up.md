@@ -40,6 +40,6 @@ The final flag was found by gathering the seven flags into a file and formatting
 This CTF was a great exercise in Linux commands, password cracking, and privilege escalation. It was a fun and challenging way to apply these skills in a realistic scenario.
 
 ## References
-Linux Command Line Basics
-John the Ripper Password Cracker
-Basic Linux Privilege Escalation
+- Linux Command Line Basics
+- John the Ripper Password Cracker
+- Basic Linux Privilege Escalation
