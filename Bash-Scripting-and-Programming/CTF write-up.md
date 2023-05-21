@@ -12,28 +12,28 @@ Upon logging into the system, I started by exploring the file system and looking
 The primary tools used were basic Linux commands such as ls, cat, grep, and find. For password cracking, I used john the ripper. To gain root access, I used a privilege escalation exploit.
 
 ## Solution
-Flag 1
+- Flag 1
 I found the first flag in a file located in the /etc directory. The file contained old passwords for users.
 
-Flag 2
+- Flag 2
 The second flag was found by cracking the password of a user named 'hacker'. I used john the ripper to crack the password and logged into the account.
 
-Flag 3
+- Flag 3
 The third flag was found in a log file related to the 'hacker' user. I used the uniq command to find the unique count of IP addresses in the log file. This number was used as a password to unzip a file related to the 'hacker' user.
 
-Flag 4
+- Flag 4
 The fourth flag was found in a directory containing a list of hackers. The flag was in a file that had read permissions for the owner, no permissions for the group, and was executable for everyone else.
 
-Flag 5
+- Flag 5
 The fifth flag was found by debugging and running a bash script written by one of the users.
 
-Flag 6
+- Flag 6
 The sixth flag was found by inspecting a user's custom aliases and running a suspicious one.
 
-Flag 7
+- Flag 7
 The seventh flag was found by exploiting a vulnerability to gain a root shell. I logged in as the root user and found the flag.
 
-Flag 8
+- Flag 8
 The final flag was found by gathering the seven flags into a file and formatting them as if each flag was a username and password. I cracked these passwords to find the final flag.
 
 ## Conclusion
