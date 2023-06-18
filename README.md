@@ -16,7 +16,7 @@ This repository documents my journey at Columbia Cybersecurity Boot Camp. It inc
 # [Network Security]()
 # [Web Development]()
 # [Cloud Security]()
-# [Project 1 Securing Cloud Apps]()
+# [Project 1 Securing Cloud Apps](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
 # [Web Vulnerabilities]()
 # [Penetration Testing]()
 # [Penetration Testing II]()
