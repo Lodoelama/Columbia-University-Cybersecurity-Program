@@ -1,30 +1,73 @@
 # Columbia-Cybersecurity-Bootcamp
-This repository documents my journey at Columbia Cybersecurity Boot Camp. It includes projects, classwork, activities and homework related to network security, penetration testing, and ethical hacking, along with documentation and instructions for each project.
+This repository documents my journey at Columbia Cybersecurity Boot Camp. It includes projects, classwork, activities, and homework related to network security, penetration testing, and ethical hacking, along with documentation and instructions for each project.
 
+# Table of Contents 
 
-# Table of content 
-# [Cybersecurity 101](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Cybersecurity101)
-# [GRC](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/GRC)
-# [Terminal and Bash](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Terminal%20and%20Bash)
-# [Linux Sysadmin Fundamentals](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Linux%20Sysadmin%20Fundamentals)
-# [Archiving and Logging Data](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Archiving%20and%20Logging%20Data)
-# [Bash Scripting and Programming](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Bash-Scripting-and-Programming)
-# [Windows Administration and Hardening]()
-# [Networking Fundamentals]()
-# [Networking Fundamentals II]()
-# [Cryptography]()
-# [Network Security]()
-# [Web Development]()
-# [Cloud Security]()
-# [Project 1 Securing Cloud Apps](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
-# [Web Vulnerabilities]()
-# [Penetration Testing]()
-# [Penetration Testing II]()
-# [Project 2 Offensive Security CTF]()
-# [SIEMs]()
-# [SIEMs]()
-# [Digital Forensics]()
-# [Project 3 Building a Sec Monitoring Environment]()
-# [Career + Cert Prep]()
-# [Project 4 bootCon]()
+## [Cybersecurity 101](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Cybersecurity101)
+Introduction to the fundamental concepts of cybersecurity.
 
+## [GRC](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/GRC)
+Governance, Risk management, and Compliance (GRC) in the context of cybersecurity.
+
+## [Terminal and Bash](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Terminal%20and%20Bash)
+Exploration of terminal usage and Bash scripting.
+
+## [Linux Sysadmin Fundamentals](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Linux%20Sysadmin%20Fundamentals)
+Basic system administration tasks in a Linux environment.
+
+## [Archiving and Logging Data](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Archiving%20and%20Logging%20Data)
+Techniques for archiving and logging data for security purposes.
+
+## [Bash Scripting and Programming](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/tree/main/Bash-Scripting-and-Programming)
+Advanced Bash scripting and programming for cybersecurity tasks.
+
+## [Windows Administration and Hardening]()
+Windows system administration and security hardening techniques.
+
+## [Networking Fundamentals]()
+Introduction to networking concepts essential for cybersecurity.
+
+## [Networking Fundamentals II]()
+Continuation of networking concepts with a focus on security.
+
+## [Cryptography]()
+Understanding of cryptography and its role in securing information.
+
+## [Network Security]()
+Techniques and strategies for securing network infrastructure.
+
+## [Web Development]()
+Web development basics with a focus on security.
+
+## [Cloud Security]()
+Securing cloud-based applications and infrastructure.
+
+## [Project 1 Securing Cloud Apps](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
+A project focused on securing cloud applications.
+
+## [Web Vulnerabilities]()
+Exploration of common web vulnerabilities and how to mitigate them.
+
+## [Penetration Testing]()
+Introduction to penetration testing techniques and tools.
+
+## [Penetration Testing II]()
+Advanced penetration testing techniques and strategies.
+
+## [Project 2 Offensive Security CTF]()
+A Capture The Flag (CTF) project focused on offensive security techniques.
+
+## [SIEMs]()
+Introduction to Security Information and Event Management (SIEM) systems.
+
+## [Digital Forensics]()
+Techniques and tools for digital forensics in cybersecurity.
+
+## [Project 3 Building a Sec Monitoring Environment]()
+A project focused on building a secure monitoring environment.
+
+## [Career + Cert Prep]()
+Preparation for cybersecurity careers and certifications.
+
+## [Project 4 bootCon]()
+A final project showcasing the skills learned throughout the bootcamp.
