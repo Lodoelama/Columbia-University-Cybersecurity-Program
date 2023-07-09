@@ -42,9 +42,6 @@ Web development basics with a focus on security.
 ## [Cloud Security]()
 Securing cloud-based applications and infrastructure.
 
-## [Project 1 Securing Cloud Apps](https://docs.google.com/document/d/1qklMKLWs76grOR52ZKALG1JuaxDrgiEPSYVn6F6S_0M/edit)
-A project focused on securing cloud applications.
-
 ## [Web Vulnerabilities]()
 Exploration of common web vulnerabilities and how to mitigate them.
 
@@ -54,20 +51,11 @@ Introduction to penetration testing techniques and tools.
 ## [Penetration Testing II]()
 Advanced penetration testing techniques and strategies.
 
-## [Project 2 Offensive Security CTF]()
-A Capture The Flag (CTF) project focused on offensive security techniques.
-
 ## [SIEMs]()
 Introduction to Security Information and Event Management (SIEM) systems.
 
 ## [Digital Forensics]()
 Techniques and tools for digital forensics in cybersecurity.
 
-## [Project 3 Building a Sec Monitoring Environment]()
-A project focused on building a secure monitoring environment.
 
-## [Career + Cert Prep]()
-Preparation for cybersecurity careers and certifications.
 
-## [Project 4 bootCon]()
-A final project showcasing the skills learned throughout the bootcamp.
