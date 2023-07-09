@@ -9,7 +9,7 @@ In the Module 13 Challenge, we created a highly available web server for XCorp's
 - Docker containers were running on each VM to host the DVWA application.
 
 ## Cloud Network Diagram
-![Network Diagram](https://drive.google.com/file/d/10SlYC4H8tUey7NL4_UWWqUob3H5XAuhA/view?usp=sharing)
+![Network Diagram](https://github.com/Lodoelama/Columbia-Cybersecurity-Bootcamp/assets/125059539/1e6ca51d-20d0-4621-b183-6738a8a05628)
 
 The diagram showcases the following components and connections:
 - Azure resource group
