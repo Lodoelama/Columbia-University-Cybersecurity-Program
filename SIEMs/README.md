@@ -1,4 +1,5 @@
 # Let's Go Splunking!
+Instructions: 
 You've been hired as an SOC analyst by Vandalay Industries, a company that uses Splunk for their security monitoring. Your task is to develop searches, custom reports, and alerts to monitor Vandalay's security environment and protect them from future attacks.
 
 The assignment involves:
