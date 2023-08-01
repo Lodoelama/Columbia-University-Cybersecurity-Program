@@ -1,5 +1,5 @@
 # Columbia-Cybersecurity-Bootcamp
-![download](https://github.com/Lodoelama/Lodoelama/assets/125059539/a36f1ec7-db61-4195-b0ab-6b709fae15b6)
+
 
 This repository documents my journey at Columbia Cybersecurity Boot Camp. It includes classwork, activities, and homework related to network security, penetration testing, and ethical hacking.
 
