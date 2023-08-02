@@ -12,4 +12,19 @@ Drawing the (Base)line: A Vandaly server is experiencing brute force attacks int
 
 The deliverable for this assignment is the M19 Challenge Submission File, which should include screenshots where indicated and custom report results where indicated.
 
-[Link to the homework](https://docs.google.com/document/d/1ca7U2PbSFEejlK7Ami_cQEhLCHjt7BEcB0p-_8EfieA/edit)
+## [Link to the homework](https://docs.google.com/document/d/1ca7U2PbSFEejlK7Ami_cQEhLCHjt7BEcB0p-_8EfieA/edit)
+# Feedback 
+"Greetings, Lodoe!
+
+Congratulations on your good SIEMs Module 19 Challenge. You’ve brought your talents and knowledge to the table, Lodoe.
+
+Lodoe, you’ve named an incorrect time frame for the DDOS. You’ve included a screenshot of your report including “_time”, “IP_ADDRESS”, “DOWNLOAD_MEGABITS”, “UPLOAD_MEGABITS”, and “ratio”. Well done on this deliverable!
+
+In step 2, you’ve depicted an incorrect number of critical vulnerabilities with a Splunk report, and you’ve set a custom daily alert to notify the SOC analysts when any vulnerabilities are detected. You’ve done marvelous work in this regard!
+
+Lastly, Lodoe, you’ve identified the time frame for the brute force attack, and established a baseline of 28 and an extremely high threshold of 134 bad logins per hour. It appears that your calculation did not take into account that there were normal and abnormal periods represented in the data, and I am unsure of the rationale behind "threshold = avg + (3*stdev)".
+
+Lodoe, I wish you all the best for a bright future!"
+
+
+RAE
