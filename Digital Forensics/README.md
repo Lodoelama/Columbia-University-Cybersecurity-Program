@@ -28,4 +28,5 @@ For example: Autopsy, the operating system (Kali Linux), text editors (Nano), et
 When including pictures from the iPhone, use the time stamp of the Created time from Autopsy.
 
 ## [Final Report](https://docs.google.com/document/d/1jwbSIaiu6wdEKFcWXx3LERyAKy2O53uR47Yx_g8grHI/edit?usp=sharing)
-
+# Feedback 
+"Hello Lodoe, I commend your continuous efforts on your assignment. You made some solid improvements judging from the previous feedback, and your Appendix B section seems to be strengthened. That being said, the feedback regarding your plot timeline still sands. It is relatively short with not events being reported beyond a day. The conclusion is also rather short as well. Your efforts are still commended though. Keep pushing for excellence and be sure to finish strong. Best of luck to you." -RO
