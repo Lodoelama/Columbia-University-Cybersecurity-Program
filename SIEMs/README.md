@@ -12,7 +12,7 @@ Drawing the (Base)line: A Vandaly server is experiencing brute force attacks int
 
 The deliverable for this assignment is the M19 Challenge Submission File, which should include screenshots where indicated and custom report results where indicated.
 
-## [Link to the project](https://docs.google.com/document/d/1ca7U2PbSFEejlK7Ami_cQEhLCHjt7BEcB0p-_8EfieA/edit)
+## [Link to the Project](https://docs.google.com/document/d/1ca7U2PbSFEejlK7Ami_cQEhLCHjt7BEcB0p-_8EfieA/edit)
 # Feedback 
 "Greetings, Lodoe!
 
