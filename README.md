@@ -1,7 +1,7 @@
-# Columbia-Cybersecurity-Bootcamp
+# Columbia-University-Cybersecurity-Program
 
 
-This repository documents my journey at Columbia Cybersecurity Boot Camp. It includes classwork, activities, and homework related to network security, penetration testing, and ethical hacking.
+This repository documents my journey at Columbia University Cybersecurity Program. It includes homelabs related to GRC, SIEM, Linux, Windows, Bash, Powershell, basic sysadmin tasks, AZURE cloud fundamentals, Cryptography, Web app penetration testing, network security, penetration testing, digital forensic and ethical hacking.
 
 # Table of Contents 
 
